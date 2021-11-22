@@ -1,9 +1,7 @@
 Hi, I'm Emilio Botier.
 
-A student of software multi-platform, learning Java as main programming leangues and also I have a knowledge on 
-SQL server, Javascipt, HTMl5, CSS and basic of PHp, being JavaScript my strong leangues, so go ahead and check it out my repositories. 👀 
-
-Currently I decided to step forward and learn Angular to strengthen my knowledges and start working on project more professionally.
+A student of software multi-platform, learning Java as main programming leangues and also I have a knowledge in 
+SQL server, Javascipt, HTMl5, CSS and android studio with java, being JavaScript and Java my strongest leangues, so go ahead and check it out my repositories. 👀 
 
 
 <!---
