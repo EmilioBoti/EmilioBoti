@@ -1,6 +1,6 @@
 Hi, I'm Emilio Botier.
 
-A student of software multi-platform, learning Java as main programming leangues and also I have a knowledge in 
+A student of software multi-platform, learning Java as main programming languages and also I have a knowledge in 
 SQL server, Javascipt, HTMl5, CSS and android studio with java, being JavaScript and Java my strongest leangues, so go ahead and check it out some of my repositories. 👀 
 
 
